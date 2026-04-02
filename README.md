@@ -82,7 +82,6 @@ VITE_API_URL=http://localhost:8000/api/v1
 
 Query params on `GET /snippets/`: `?search=` `?language=` `?is_public=` `?tags=` `?ordering=`
 
--
 ## Running Tests
 ```bash
 cd api
