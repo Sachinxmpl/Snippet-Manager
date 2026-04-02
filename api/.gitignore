@@ -20,11 +20,7 @@ env/
 
 # Environment variables
 .env
-.env.*
 
-# Media files (user uploads)
-media/
-uploads/
 
 # Static files (can be generated)
 staticfiles/
